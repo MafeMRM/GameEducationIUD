@@ -1,0 +1,25 @@
+Título: Geoaventura
+
+Género: Videojuego educativo
+
+Plataforma: Scratch (soporte Web y móviles)
+
+Historia:
+La historia se desarrolla en Cortópolis, un mundo lleno de misterios, desafíos y personajes fascinantes.
+El protagonista es Terra, un niño aventurero que debe restaurar el Gran Mapa del Mundo, cuyas piezas fueron robadas por los Guardianes del Olvido.
+
+Objetivos:
+- Enseñar geografía mundial a estudiantes de primaria.
+- Combinar aprendizaje y diversión mediante retos progresivos.
+
+Mecánicas:
+- Niveles progresivos con misiones de memoria, asociación y exploración.
+- Identificación de países, continentes, océanos y capitales.
+- Retos interactivos con imágenes y actividades de arrastrar y soltar.
+- Minijuegos al final de cada nivel con recompensas (estrellas, logros, medallas).
+
+Características:
+- Guardado automático del progreso.
+- Modo sin conexión.
+- Narración interactiva en voz.
+- Panel de control para profesores.
